@@ -14,7 +14,6 @@ To use the scripts and notebooks in this repository:
 Clone the repository:
 
 bash
-Copy code
 git clone https://github.com/sarahgetter/go_play.git
 Navigate to the desired project or script directory.
 
@@ -33,6 +32,7 @@ Scikit-learn
 Airflow
 DBT
 Terraform
+
 About Me
 I am a data science and machine learning enthusiast with a passion for turning complex datasets into meaningful stories.
 
