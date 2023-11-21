@@ -1,42 +1,49 @@
-Data Science and Machine Learning Portfolio
-Overview
-Welcome to my GitHub repository, where I showcase my work in data engineering, data science, and machine learning. This repository serves as a comprehensive portfolio of projects and scripts that demonstrate my skills, knowledge, and passion for transforming data into actionable insights and innovative AI solutions.
+# Data Science and Machine Learning Portfolio  
 
-Projects
-Each project in this repository is contained in its own directory.
+## Overview  
 
-Scripts and Notebooks
-In the scripts and notebooks directories, you'll find various Python scripts and Jupyter notebooks that I've written to perform data analysis, machine learning model training, and other data science tasks.
+Welcome to my GitHub repository, where I showcase my work in data engineering, data science, and machine learning. This repository serves as a comprehensive portfolio of projects and scripts that demonstrate my skills, knowledge, and passion for transforming data into actionable insights and innovative AI solutions.  
 
-How to Use
-To use the scripts and notebooks in this repository:
+## Projects  
 
-Clone the repository:
+Each project in this repository is contained in its own directory.  
 
-bash
-git clone https://github.com/sarahgetter/go_play.git
-Navigate to the desired project or script directory.
+## Scripts and Notebooks  
 
-Follow the individual READMEs in each project or script directory for specific instructions on how to run and use them.
+In the scripts and notebooks directories, you'll find various Python scripts and Jupyter notebooks that I've written to perform data analysis, machine learning model training, and other data science tasks.  
 
-Technologies Used
-This repository includes work done with the following technologies:
+## How to Use  
 
-Python
-SQL
-TensorFlow
-PyTorch
-Pandas
-NumPy
-Scikit-learn
-Airflow
-DBT
-Terraform
+To use the scripts and notebooks in this repository:  
 
-About Me
-I am a data science and machine learning enthusiast with a passion for turning complex datasets into meaningful stories.
+1. **Clone the repository:**  
+   `git clone https://github.com/sarahgetter/go_play.git`  
 
-Connect with me on LinkedIn: www.linkedin.com/in/sarah-getter-b921711b6 for more information about my work and experience.
+2. **Navigate** to the desired project or script directory.  
 
-Contributing
+3. **Follow the individual READMEs** in each project or script directory for specific instructions on how to run and use them.  
+
+## Technologies Used  
+
+This repository includes work done with the following technologies:  
+
+- Python  
+- SQL  
+- TensorFlow  
+- PyTorch  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Airflow  
+- DBT  
+- Terraform  
+
+## About Me  
+
+I am a data science and machine learning enthusiast with a passion for turning complex datasets into meaningful stories.  
+
+Connect with me on LinkedIn: [www.linkedin.com/in/sarah-getter-b921711b6](https://www.linkedin.com/in/sarah-getter-b921711b6) for more information about my work and experience.  
+
+## Contributing  
+
 While this is a personal portfolio, I am open to collaborations and contributions that can enhance the projects. Feel free to fork the repository and submit pull requests.
