@@ -12,8 +12,10 @@ How to Use
 To use the scripts and notebooks in this repository:
 
 Clone the repository:
-git clone https://github.com/sarahgetter/go_play.git
 
+bash
+Copy code
+git clone https://github.com/sarahgetter/go_play.git
 Navigate to the desired project or script directory.
 
 Follow the individual READMEs in each project or script directory for specific instructions on how to run and use them.
