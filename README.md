@@ -40,9 +40,7 @@ This repository includes work done with the following technologies:
 
 ## About Me  
 
-I am a data science and machine learning enthusiast with a passion for turning complex datasets into meaningful stories.  
-
-Connect with me on LinkedIn: [www.linkedin.com/in/sarah-getter-b921711b6](https://www.linkedin.com/in/sarah-getter-b921711b6) for more information about my work and experience.  
+I am a data science and machine learning enthusiast with a passion for turning complex datasets into meaningful stories.
 
 ## Contributing  
 
