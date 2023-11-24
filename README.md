@@ -45,3 +45,41 @@ I am a data science and machine learning enthusiast with a passion for turning c
 ## Contributing  
 
 While this is a personal portfolio, I am open to collaborations and contributions that can enhance the projects. Feel free to fork the repository and submit pull requests.
+
+## Building and Running the Docker Image
+
+Build the Docker Image
+
+Navigate to the directory containing the Dockerfile.
+
+## Run the following command to build the Docker image. You can replace data-science-env with your preferred image name:
+
+docker build -t data-science-env .
+
+## Run a Container
+
+Once the image is built, you can start a container using the following command:
+
+docker run -p 8888:8888 data-science-env
+
+This command maps the container's port 8888 to port 8888 on your host machine, allowing you to access Jupyter Notebook through your browser.
+
+## Access Jupyter Notebook
+
+Open your web browser and navigate to: http://localhost:8888.
+
+You might need a token to log in, which can be found in the terminal output where you started the Docker container.
+
+## Additional Steps
+
+Customization: You may want to customize the environment further by adding more packages or configuring Jupyter Notebook settings.
+
+Data Persistence: Consider adding a volume to your Docker run command if you want to persist notebooks or data files outside the container. 
+
+## Example:
+
+docker run -p 8888:8888 -v $(pwd):/usr/src/app data-science-env
+
+Docker Hub: You could also push the built image to a container registry like Docker Hub for easy access and sharing.
+
+This setup provides a basic yet powerful data science environment, suitable for a variety of tasks in machine learning and data analysis.
