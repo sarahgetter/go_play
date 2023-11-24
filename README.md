@@ -54,13 +54,13 @@ Navigate to the directory containing the Dockerfile.
 
 ## Run the following command to build the Docker image. You can replace data-science-env with your preferred image name:
 
-docker build -t data-science-env .
+`docker build -t data-science-env .`
 
 ## Run a Container
 
 Once the image is built, you can start a container using the following command:
 
-docker run -p 8888:8888 data-science-env
+`docker run -p 8888:8888 data-science-env`
 
 This command maps the container's port 8888 to port 8888 on your host machine, allowing you to access Jupyter Notebook through your browser.
 
@@ -78,7 +78,7 @@ Data Persistence: Consider adding a volume to your Docker run command if you wan
 
 ## Example:
 
-docker run -p 8888:8888 -v $(pwd):/usr/src/app data-science-env
+`docker run -p 8888:8888 -v $(pwd):/usr/src/app data-science-env`
 
 Docker Hub: You could also push the built image to a container registry like Docker Hub for easy access and sharing.
 
