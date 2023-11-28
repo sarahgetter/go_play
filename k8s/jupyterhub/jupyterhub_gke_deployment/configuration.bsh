@@ -1,0 +1,17 @@
+jupyterhub-gke-deployment/
+│
+├── Dockerfile               # Optional: Custom Dockerfile if you need a customized JupyterHub image
+│
+├── helm-config/             # Helm chart configurations
+│   └── jupyterhub-values.yaml  # Custom values for the JupyterHub Helm chart
+│
+├── k8s-config/              # Kubernetes configuration files (if needed outside of Helm)
+│   ├── namespace.yaml       # Definition for the namespace
+│   ├── ingress.yaml         # Ingress resource configuration
+│   └── ...                  # Other Kubernetes manifests (e.g., PersistentVolume, ServiceAccount)
+│
+├── scripts/                 # Utility scripts
+│   ├── setup-gke-cluster.sh # Script to set up the GKE cluster
+│   └── deploy-jupyterhub.sh # Script to deploy JupyterHub using Helm
+│
+└── README.md                # Project documentation including setup and usage instructions
