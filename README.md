@@ -37,6 +37,7 @@ This repository includes work done with the following technologies:
 - Airflow  
 - DBT  
 - Terraform  
+- Kubernetes
 
 ## About Me  
 
