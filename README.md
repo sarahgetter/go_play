@@ -2,7 +2,7 @@
 
 ## Overview  
 
-Welcome to my GitHub repository, where I showcase my work in data engineering, data science, and machine learning. This repository serves as my ledger for my skills, knowledge, and passion for transforming data into actionable insights and innovative AI solutions.  Arm yourself with information!
+Welcome to my go_play GitHub repository, where I showcase my work in data engineering, data science, and machine learning. This repository serves as my ledger for my skills, knowledge, and passion for transforming data into actionable insights and innovative AI solutions.  Arm yourself with information!
 
 ## Projects  
 
