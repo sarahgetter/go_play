@@ -1,4 +1,6 @@
-# Here's a step-by-step guide to help you set up a Hadoop cluster on your local machine, which is a great way to get hands-on experience with Hadoop.
+# Hadoop Configuration
+
+## Here's a step-by-step guide to help you set up a Hadoop cluster on your local machine, which is a great way to get hands-on experience with Hadoop.
 
 ## Step 1: Prerequisites
 
