@@ -63,4 +63,4 @@ This will start the Hadoop Distributed File System (HDFS), ResourceManager, and 
 
 Open a web browser and navigate to http://localhost:50070/. This will display the Hadoop NameNode web interface, indicating that Hadoop services are running successfully.
 
-That's it! You've now set up a basic Hadoop cluster on your local machine. You can further explore Hadoop by running sample MapReduce jobs, exploring HDFS, and experimenting with other Hadoop features.
+You've now set up a basic Hadoop cluster on your local machine. Further explore Hadoop by running sample MapReduce jobs, exploring HDFS, and experimenting with other Hadoop features.
