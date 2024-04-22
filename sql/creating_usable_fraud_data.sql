@@ -25,7 +25,7 @@ Notes:
 * The script leverages JSON functions to parse nested data structures within the fraud_saas_history table.
 * It's recommended to schedule regular updates to maintain data integrity and accuracy.
 */
-SELECT 
+SELECT
   f.* EXCEPT(user_id, applied_rules), 
   IF(f.user_id IS NULL, u.user_id, f.user_id) AS user_id,
   JSON_EXTRACT_SCALAR(applied_rule, '$.score') AS rule_score,
